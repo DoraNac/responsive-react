@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+ 
+
+background: linear-gradient(230.1deg, rgb(65, 65, 65) 11.4%, rgb(0, 0, 0) 70.2%);
+
+    font-family: 'Taruno Wide', sans-serif;
+                                                
+                                                
+}
